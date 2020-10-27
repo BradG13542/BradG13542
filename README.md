@@ -1,4 +1,4 @@
-### Hi there, I'm Bradley
+### Hey there, I'm Bradley 👋
 
 </br>
 
@@ -19,8 +19,9 @@
 </br>
 
 [//]: # (Personal Github Stats)
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=bradg13542&show_icons=true&locale=en&theme=dark&cache_seconds=86400&hide_border=true&count_private=true" alt="bradg13542" /></p>
+[![Personal Github Stats](https://github-readme-stats.vercel.app/api?username=bradg13542&show_icons=true&locale=en&theme=dark&cache_seconds=86400&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[//]: # (Language Stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bradg13542&locale=en&theme=dark&cache_seconds=86400&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [//]: # (Account Links [not shown])
