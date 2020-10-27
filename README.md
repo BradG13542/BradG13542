@@ -33,7 +33,12 @@
 </br>
 
 [//]: # (Github Activity)
-<!-- START_SECTION:activity-->
+<details>
+    <summary>⚡ Recent Github Activity</summary>
+
+<!--START_SECTION:activity-->
+
+</details>
 
 [//]: # (Account Links [not shown])
 [instagram_personal]: https://instagram.com/bradg13542
