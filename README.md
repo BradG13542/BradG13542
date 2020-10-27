@@ -37,7 +37,7 @@
 </br>
 
 [//]: # (Github Activity)
-###⚡ Recent Github Activity
+### ⚡ Recent Github Activity
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
