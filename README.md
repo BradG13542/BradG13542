@@ -3,7 +3,7 @@
 </br>
 
 [//]: # (Trivia)
-## I'm an Apprentice Software Engineer and an Undergraduate
+## I'm a Software Engineering Degree Apprentice
 - 🌱 I'm currently learning C#
 - 🥅 2020 Goals: Actively look for ways to improve my coding styles and standards
 - ⚡ Fun Fact: I enjoy night sky / landscape photography <sub><sup>Dedicated IG to arrive™</sup></sub>
@@ -19,7 +19,9 @@
 </br>
 
 [//]: # (Personal Github Stats)
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=bradg13542&show_icons=true&locale=en" alt="bradg13542" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=bradg13542&show_icons=true&locale=en&theme=dark&cache_seconds=86400&hide_border=true&count_private=true" alt="bradg13542" /></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bradg13542&locale=en&theme=dark&cache_seconds=86400&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [//]: # (Account Links [not shown])
 [instagram_personal]: https://instagram.com/bradg13542
