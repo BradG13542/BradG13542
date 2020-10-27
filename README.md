@@ -24,7 +24,11 @@
 </br>
 </br>
 
-[//]: # (Personal Github Stats)
+[//]: # (WakaTime Github stats)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+[//]: # (Yearly Github Stats)
 [![Personal Github Stats](https://github-readme-stats.vercel.app/api?username=bradg13542&show_icons=true&locale=en&theme=dark&cache_seconds=86400&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [//]: # (Language Stats)
@@ -33,12 +37,9 @@
 </br>
 
 [//]: # (Github Activity)
-<details>
-    <summary>⚡ Recent Github Activity</summary>
-
+###⚡ Recent Github Activity
 <!--START_SECTION:activity-->
-
-</details>
+<!--END_SECTION:activity-->
 
 [//]: # (Account Links [not shown])
 [instagram_personal]: https://instagram.com/bradg13542
