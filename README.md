@@ -1,7 +1,5 @@
 ### Hey there, I'm Bradley 👋
 
-</br>
-
 [//]: # (Trivia)
 ## I'm a Software Engineering Degree Apprentice
 - 🌱 I'm currently learning C#
