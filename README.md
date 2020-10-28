@@ -1,7 +1,9 @@
-### Hey there, I'm Bradley 👋
+## Hey there, I'm Bradley 👋
+
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page is the meme doesn't show up.">
 
 [//]: # (Trivia)
-## I'm a Software Engineering Degree Apprentice
+### I'm a Software Engineering Degree Apprentice
 - 🌱 I'm currently learning C#
 - 🥅 2020 Goals: Actively look for ways to improve my coding styles and standards
 - ⚡ Fun Fact: I enjoy night sky / landscape photography <sub><sup>Dedicated IG to arrive™</sup></sub>
