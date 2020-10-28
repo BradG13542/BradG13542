@@ -1,7 +1,5 @@
 ## Hey there, I'm Bradley 👋
 
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page is the meme doesn't show up.">
-
 [//]: # (Trivia)
 ### I'm a Software Engineering Degree Apprentice
 - 🌱 I'm currently learning C#
@@ -44,6 +42,10 @@
 ### ⚡ Recent Github Activity
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+
+</br>
+
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page is the meme doesn't show up.">
 
 [//]: # (Account Links [not shown])
 [instagram_personal]: https://instagram.com/bradg13542
