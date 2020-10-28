@@ -34,7 +34,7 @@
 
 [//]: # (Language Stats)
 ### 🇬🇧 Language Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bradg13542&locale=en&theme=dark&cache_seconds=86400&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bradg13542&locale=en&theme=dark&cache_seconds=86400&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </br>
 
