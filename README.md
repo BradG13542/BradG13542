@@ -38,6 +38,7 @@
 [//]: # (Github Activity)
 ### ⚡ Recent Github Activity
 <!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 [//]: # (Account Links [not shown])
 [instagram_personal]: https://instagram.com/bradg13542
