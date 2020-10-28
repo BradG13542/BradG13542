@@ -38,8 +38,6 @@
 [//]: # (Github Activity)
 ### ⚡ Recent Github Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#13](https://github.com/shlifedev/AmongUsMemory/issues/13) in [shlifedev/AmongUsMemory](https://github.com/shlifedev/AmongUsMemory)
-<!--END_SECTION:activity-->
 
 [//]: # (Account Links [not shown])
 [instagram_personal]: https://instagram.com/bradg13542
