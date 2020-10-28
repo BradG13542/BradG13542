@@ -46,15 +46,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bradg13542&locale=en&theme=dark&cache_seconds=86400&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-</br>
-
-[//]: # "Github Activity"
-
-### ⚡ Recent Github Activity
-
-<!--START_SECTION:activity-->
-1. ❗️ Opened issue [#13](https://github.com/shlifedev/AmongUsMemory/issues/13) in [shlifedev/AmongUsMemory](https://github.com/shlifedev/AmongUsMemory)
-<!--END_SECTION:activity-->
-
 [//]: # "Account Links [not shown]"
 [instagram_personal]: https://instagram.com/bradg13542
