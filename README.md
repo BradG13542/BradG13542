@@ -28,9 +28,11 @@
 <!--END_SECTION:waka-->
 
 [//]: # (Yearly Github Stats)
+### 📅 Yearly Stats
 [![Personal Github Stats](https://github-readme-stats.vercel.app/api?username=bradg13542&show_icons=true&locale=en&theme=dark&cache_seconds=86400&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [//]: # (Language Stats)
+### 🇬🇧 Language Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bradg13542&locale=en&theme=dark&cache_seconds=86400&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </br>
