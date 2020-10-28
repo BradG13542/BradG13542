@@ -17,9 +17,6 @@
 [//]: # (Tools & Languages)
 ### Tools & Languages
 
-
-</br>
-</br>
 </br>
 
 [//]: # (WakaTime Github stats)
@@ -27,9 +24,13 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+</br>
+
 [//]: # (Yearly Github Stats)
 ### 📅 Yearly Stats
 [![Personal Github Stats](https://github-readme-stats.vercel.app/api?username=bradg13542&show_icons=true&locale=en&theme=dark&cache_seconds=86400&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+</br>
 
 [//]: # (Language Stats)
 ### 🇬🇧 Language Stats
