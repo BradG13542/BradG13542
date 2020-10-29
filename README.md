@@ -22,22 +22,52 @@
 
 ### Tools & Languages:
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/bitbucket/bitbucket-original.svg" alt="Bitbucket" width="50" height="50">
-<img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/confluence/confluence-original.svg" alt="Confluence" width="50" height="50">
-<img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/docker/docker-plain.svg" alt="Docker" width="50" height="50">
-<img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/git/git-plain.svg" alt="Git" width="50" height="50">
-<img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/github/github-original.svg" alt="Github" width="50" height="50">
-<img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/linux/linux-plain.svg" alt="Linux" width="50" height="50">
-<img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="50" height="50">
+<div class="row">
+  <div class="column">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/bitbucket/bitbucket-original.svg" alt="Bitbucket" width="50" height="50">
+  </div>
+  <div class="column">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/confluence/confluence-original.svg" alt="Confluence" width="50" height="50">
+  </div>
+  <div class="column">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/docker/docker-plain.svg" alt="Docker" width="50" height="50">
+  </div>
+  <div class="column">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/git/git-plain.svg" alt="Git" width="50" height="50">
+  </div>
+  <div class="column">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/github/github-original.svg" alt="Github" width="50" height="50">
+  </div>
+  <div class="column">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/linux/linux-plain.svg" alt="Linux" width="50" height="50">
+  </div>
+  <div class="column">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="50" height="50">
+  </div>
+</div>
 
 </br>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/csharp/csharp-line.svg" alt="C#" width="50" height="50">
-<img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/cplusplus/cplusplus-line.svg" alt="C++" width="50" height="50">
-<img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/java/java-original.svg" alt="Java" width="50" height="50">
-<img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/python/python-original.svg" alt="Python" width="50" height="50">
-<img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/javascript/javascript-original.svg" alt="JS" width="50" height="50">
-<img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/typescript/typescript-original.svg" alt="TS" width="50" height="50">
+<div class="row">
+  <div class="column">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/csharp/csharp-line.svg" alt="C#" width="50" height="50">
+  </div>
+  <div class="column">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/cplusplus/cplusplus-line.svg" alt="C++" width="50" height="50">
+  </div>
+  <div class="column">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/java/java-original.svg" alt="Java" width="50" height="50">
+  </div>
+  <div class="column">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/python/python-original.svg" alt="Python" width="50" height="50">
+  </div>
+  <div class="column">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/javascript/javascript-original.svg" alt="JS" width="50" height="50">
+  </div>
+  <div class="column">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/typescript/typescript-original.svg" alt="TS" width="50" height="50">
+  </div>
+</div>
 
 </br>
 
