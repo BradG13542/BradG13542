@@ -4,8 +4,8 @@
 
 ### I'm a Software Engineering Degree Apprentice
 
-- 🌱 I'm currently learning C#
-- 🥅 2020 Goals: Actively look for ways to improve my coding styles and standards
+- 🌱 I'm currently learning Rust and Golang
+- 🥅 2021 Goals: Enjoy learning Rust and Golang at a deeper level
 - ⚡ Fun Fact: I enjoy night sky / landscape photography <sub><sup>Dedicated IG to arrive™</sup></sub>
 
 </br>
