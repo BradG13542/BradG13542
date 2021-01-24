@@ -2,7 +2,7 @@
 
 [//]: # "Trivia"
 
-### 🐱‍🏍 I'm a Software Engineering Degree Apprentice
+### 🐱‍🏍 I'm an Apprentice Software Engineer
 
 - 🌱 I'm currently learning Rust and Golang
 - 🥅 2021 Goals: Enjoy learning Rust and Golang at a deeper level
@@ -61,4 +61,4 @@
 [![Personal Github Stats](https://github-readme-stats.vercel.app/api?username=bradg13542&show_icons=true&locale=en&theme=dark&cache_seconds=86400&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [//]: # "Account Links [not shown]"
-[instagram_personal]: https://instagram.com/bradg13542
+[instagram_personal]: https://instagram.com/username_here
