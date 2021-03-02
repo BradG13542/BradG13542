@@ -24,7 +24,7 @@
 - 📕 [Brilliant Communication Skills: What the best communicators know, do and say - Gill Hasson](https://www.goodreads.com/book/show/13698666-brilliant-communication-skills)
 - 📕 [Brilliant Networking: What the best networkers know, say and do - Steven D'Souza](https://www.goodreads.com/book/show/2631307-brilliant-networking)
 - 📕 [Brilliant Cognitive Behavioural Therapy - Dr. Stephen Briers](https://www.goodreads.com/book/show/6595229-brilliant-cognitive-behavioural-therapy)
-- 📕 [Agile Project Management with Scrum (Developer Best Practices) - Ken Schwaber](https://www.goodreads.com/book/show/21965544-agile-project-management-with-scrum)
+- 📕 [Agile Project Management with Scrum (Developer Best Practices) - Ken Schwaber](https://www.goodreads.com/book/show/21965544-agile-project-management-with-scrum) (Outdated and so may be skipped)
 
 </br>
 
