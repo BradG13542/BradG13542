@@ -20,9 +20,10 @@
 - 📕 [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://www.goodreads.com/book/show/18043011-clean-architecture)
 - 📕 [Soft Skills: The Software Developer's Life Manual - John Sonmez](https://www.goodreads.com/book/show/23232941-soft-skills)
 - 📕 [How to Win Friends and Influence People - Dale Carnegie](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)
+- 📕 [Way of the Wolf - Jordan Belfort](https://www.goodreads.com/book/show/32920300-way-of-the-wolf)
 - 📕 [Brilliant Communication Skills: What the best communicators know, do and say - Gill Hasson](https://www.goodreads.com/book/show/13698666-brilliant-communication-skills)
 - 📕 [Brilliant Networking: What the best networkers know, say and do - Steven D'Souza](https://www.goodreads.com/book/show/2631307-brilliant-networking)
-- 📕 [Brilliant Cognitive Behavioural Therapy: How to use CBT to improve your mind and your life - Dr. Stephen Briers](https://www.goodreads.com/book/show/6595229-brilliant-cognitive-behavioural-therapy)
+- 📕 [Brilliant Cognitive Behavioural Therapy - Dr. Stephen Briers](https://www.goodreads.com/book/show/6595229-brilliant-cognitive-behavioural-therapy)
 - 📕 [Agile Project Management with Scrum (Developer Best Practices) - Ken Schwaber](https://www.goodreads.com/book/show/21965544-agile-project-management-with-scrum)
 
 </br>
