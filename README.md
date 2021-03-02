@@ -14,11 +14,11 @@
 
 ### 📚 Reading List For 2021
 
-- ✔️ [Mastery: The Keys to Success And Long-Term Fulfillment - George Leonard](https://www.goodreads.com/book/show/81940.Mastery)
-- 📖 [The Pragmatic Programmer - David Thomas & Andrew Hunt](https://www.goodreads.com/book/show/56614175-the-pragmatic-programmer)
+- ✔️ [Mastery: The Keys to Success And Long-Term Fulfillment - George Leonard](https://www.goodreads.com/book/show/81940.Mastery) ★★★★☆
+- ✔️ [The Pragmatic Programmer - David Thomas & Andrew Hunt](https://www.goodreads.com/book/show/56614175-the-pragmatic-programmer) ★★★★★
+- 📖 [Soft Skills: The Software Developer's Life Manual - John Sonmez](https://www.goodreads.com/book/show/23232941-soft-skills)
 - 📕 [The Clean Coder: A Code of Conduct for Professional Programmers - Robert C. Martin](https://www.goodreads.com/book/show/10284614-the-clean-coder)
 - 📕 [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://www.goodreads.com/book/show/18043011-clean-architecture)
-- 📕 [Soft Skills: The Software Developer's Life Manual - John Sonmez](https://www.goodreads.com/book/show/23232941-soft-skills)
 - 📕 [How to Win Friends and Influence People - Dale Carnegie](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)
 - 📕 [Way of the Wolf - Jordan Belfort](https://www.goodreads.com/book/show/32920300-way-of-the-wolf)
 - 📕 [Brilliant Communication Skills: What the best communicators know, do and say - Gill Hasson](https://www.goodreads.com/book/show/13698666-brilliant-communication-skills)
